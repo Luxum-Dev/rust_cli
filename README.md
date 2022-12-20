@@ -1,3 +1,3 @@
-# Goal of this repo
+# 01 - echor
 
-This repo will help me to keep track of my training for Rust.
+First attempt to replicate echo program in linux.
